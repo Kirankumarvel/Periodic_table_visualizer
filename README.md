@@ -6,7 +6,8 @@
 
 An interactive GUI application that visualizes the complete periodic table of elements with detailed atomic information.
 
-![Screenshot](screenshot.png) *(Replace with actual screenshot)*
+![Screenshot]
+![image](https://github.com/user-attachments/assets/f17cd87c-ebba-49d6-9823-59fdab87cc3a)
 
 ## Features ✨
 
